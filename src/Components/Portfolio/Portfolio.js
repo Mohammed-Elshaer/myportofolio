@@ -34,7 +34,7 @@ const Portfolio = () => {
                 <PortfolioItem>Mobile</PortfolioItem>
             </PortfolioList>
             
-            <div class="box">
+            <div className="box">
                 {PortfolioImages}              
             </div>
             
